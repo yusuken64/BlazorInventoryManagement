@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "InventoryManagementSystem.Plugins.InMemory/1.0.0": {
+        "dependencies": {
+          "InventoryManagementSystem.UseCases": "1.0.0"
+        },
+        "runtime": {
+          "InventoryManagementSystem.Plugins.InMemory.dll": {}
+        }
+      },
+      "InventoryManagementSystem.CoreBusiness/1.0.0": {
+        "runtime": {
+          "InventoryManagementSystem.CoreBusiness.dll": {}
+        }
+      },
+      "InventoryManagementSystem.UseCases/1.0.0": {
+        "dependencies": {
+          "InventoryManagementSystem.CoreBusiness": "1.0.0"
+        },
+        "runtime": {
+          "InventoryManagementSystem.UseCases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InventoryManagementSystem.Plugins.InMemory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InventoryManagementSystem.CoreBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InventoryManagementSystem.UseCases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

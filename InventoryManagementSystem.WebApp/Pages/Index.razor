@@ -1,0 +1,18 @@
+﻿@page "/"
+
+@inject IViewInventoriesByNameUseCase ViewInventoriesByNameUseCase
+@inject IEditInventoryUseCase EditInventoryUseCase
+
+<PageTitle>Test Page</PageTitle>
+<br />
+Inventory Sample with blazer
+
+@code
+{
+	private List<Inventory> _inventories = new ();
+
+	protected override async Task OnInitializedAsync()
+	{
+		_inventories = (await ViewInventoriesByNameUseCase.ExecuteAsync()).ToList();
+	}
+}

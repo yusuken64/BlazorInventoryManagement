@@ -1,0 +1,12 @@
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.CoreBusiness\bin\Debug\net6.0\InventoryManagementSystem.CoreBusiness.deps.json
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.CoreBusiness\bin\Debug\net6.0\InventoryManagementSystem.CoreBusiness.dll
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.CoreBusiness\bin\Debug\net6.0\InventoryManagementSystem.CoreBusiness.pdb
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.CoreBusiness\obj\Debug\net6.0\InventoryManagementSystem.CoreBusiness.csproj.AssemblyReference.cache
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.CoreBusiness\obj\Debug\net6.0\InventoryManagementSystem.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.CoreBusiness\obj\Debug\net6.0\InventoryManagementSystem.CoreBusiness.AssemblyInfoInputs.cache
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.CoreBusiness\obj\Debug\net6.0\InventoryManagementSystem.CoreBusiness.AssemblyInfo.cs
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.CoreBusiness\obj\Debug\net6.0\InventoryManagementSystem.CoreBusiness.csproj.CoreCompileInputs.cache
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.CoreBusiness\obj\Debug\net6.0\InventoryManagementSystem.CoreBusiness.dll
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.CoreBusiness\obj\Debug\net6.0\refint\InventoryManagementSystem.CoreBusiness.dll
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.CoreBusiness\obj\Debug\net6.0\InventoryManagementSystem.CoreBusiness.pdb
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.CoreBusiness\obj\Debug\net6.0\ref\InventoryManagementSystem.CoreBusiness.dll

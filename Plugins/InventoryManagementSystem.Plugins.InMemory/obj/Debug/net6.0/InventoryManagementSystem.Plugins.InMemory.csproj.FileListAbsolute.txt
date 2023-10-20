@@ -1,0 +1,17 @@
+C:\Users\yusuk\source\repos\InventoryManagementSystem\Plugins\InventoryManagementSystem.Plugins.InMemory\bin\Debug\net6.0\InventoryManagementSystem.Plugins.InMemory.deps.json
+C:\Users\yusuk\source\repos\InventoryManagementSystem\Plugins\InventoryManagementSystem.Plugins.InMemory\bin\Debug\net6.0\InventoryManagementSystem.Plugins.InMemory.dll
+C:\Users\yusuk\source\repos\InventoryManagementSystem\Plugins\InventoryManagementSystem.Plugins.InMemory\bin\Debug\net6.0\InventoryManagementSystem.Plugins.InMemory.pdb
+C:\Users\yusuk\source\repos\InventoryManagementSystem\Plugins\InventoryManagementSystem.Plugins.InMemory\bin\Debug\net6.0\InventoryManagementSystem.CoreBusiness.dll
+C:\Users\yusuk\source\repos\InventoryManagementSystem\Plugins\InventoryManagementSystem.Plugins.InMemory\bin\Debug\net6.0\InventoryManagementSystem.UseCases.dll
+C:\Users\yusuk\source\repos\InventoryManagementSystem\Plugins\InventoryManagementSystem.Plugins.InMemory\bin\Debug\net6.0\InventoryManagementSystem.UseCases.pdb
+C:\Users\yusuk\source\repos\InventoryManagementSystem\Plugins\InventoryManagementSystem.Plugins.InMemory\bin\Debug\net6.0\InventoryManagementSystem.CoreBusiness.pdb
+C:\Users\yusuk\source\repos\InventoryManagementSystem\Plugins\InventoryManagementSystem.Plugins.InMemory\obj\Debug\net6.0\InventoryManagementSystem.Plugins.InMemory.csproj.AssemblyReference.cache
+C:\Users\yusuk\source\repos\InventoryManagementSystem\Plugins\InventoryManagementSystem.Plugins.InMemory\obj\Debug\net6.0\InventoryManagementSystem.Plugins.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuk\source\repos\InventoryManagementSystem\Plugins\InventoryManagementSystem.Plugins.InMemory\obj\Debug\net6.0\InventoryManagementSystem.Plugins.InMemory.AssemblyInfoInputs.cache
+C:\Users\yusuk\source\repos\InventoryManagementSystem\Plugins\InventoryManagementSystem.Plugins.InMemory\obj\Debug\net6.0\InventoryManagementSystem.Plugins.InMemory.AssemblyInfo.cs
+C:\Users\yusuk\source\repos\InventoryManagementSystem\Plugins\InventoryManagementSystem.Plugins.InMemory\obj\Debug\net6.0\InventoryManagementSystem.Plugins.InMemory.csproj.CoreCompileInputs.cache
+C:\Users\yusuk\source\repos\InventoryManagementSystem\Plugins\InventoryManagementSystem.Plugins.InMemory\obj\Debug\net6.0\InventoryManagementSystem.Plugins.InMemory.csproj.CopyComplete
+C:\Users\yusuk\source\repos\InventoryManagementSystem\Plugins\InventoryManagementSystem.Plugins.InMemory\obj\Debug\net6.0\InventoryManagementSystem.Plugins.InMemory.dll
+C:\Users\yusuk\source\repos\InventoryManagementSystem\Plugins\InventoryManagementSystem.Plugins.InMemory\obj\Debug\net6.0\refint\InventoryManagementSystem.Plugins.InMemory.dll
+C:\Users\yusuk\source\repos\InventoryManagementSystem\Plugins\InventoryManagementSystem.Plugins.InMemory\obj\Debug\net6.0\InventoryManagementSystem.Plugins.InMemory.pdb
+C:\Users\yusuk\source\repos\InventoryManagementSystem\Plugins\InventoryManagementSystem.Plugins.InMemory\obj\Debug\net6.0\ref\InventoryManagementSystem.Plugins.InMemory.dll

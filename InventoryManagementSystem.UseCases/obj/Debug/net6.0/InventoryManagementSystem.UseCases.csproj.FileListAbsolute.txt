@@ -1,0 +1,15 @@
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.UseCases\bin\Debug\net6.0\InventoryManagementSystem.UseCases.deps.json
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.UseCases\bin\Debug\net6.0\InventoryManagementSystem.UseCases.dll
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.UseCases\bin\Debug\net6.0\InventoryManagementSystem.UseCases.pdb
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.UseCases\bin\Debug\net6.0\InventoryManagementSystem.CoreBusiness.dll
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.UseCases\bin\Debug\net6.0\InventoryManagementSystem.CoreBusiness.pdb
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.UseCases\obj\Debug\net6.0\InventoryManagementSystem.UseCases.csproj.AssemblyReference.cache
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.UseCases\obj\Debug\net6.0\InventoryManagementSystem.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.UseCases\obj\Debug\net6.0\InventoryManagementSystem.UseCases.AssemblyInfoInputs.cache
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.UseCases\obj\Debug\net6.0\InventoryManagementSystem.UseCases.AssemblyInfo.cs
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.UseCases\obj\Debug\net6.0\InventoryManagementSystem.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.UseCases\obj\Debug\net6.0\InventoryManagementSystem.UseCases.csproj.CopyComplete
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.UseCases\obj\Debug\net6.0\InventoryManagementSystem.UseCases.dll
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.UseCases\obj\Debug\net6.0\refint\InventoryManagementSystem.UseCases.dll
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.UseCases\obj\Debug\net6.0\InventoryManagementSystem.UseCases.pdb
+C:\Users\yusuk\source\repos\InventoryManagementSystem\InventoryManagementSystem.UseCases\obj\Debug\net6.0\ref\InventoryManagementSystem.UseCases.dll
